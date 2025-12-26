@@ -5,6 +5,7 @@ import "./utils/i18n.js";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import App from "./App.tsx";
 import LandingPage from "./pages/LandingPage.tsx";
+import NotFound from "./pages/NotFound.tsx";
 
 const queryClient = new QueryClient();
 
@@ -14,6 +15,7 @@ createRoot(document.getElementById("root")!).render(
       <BrowserRouter>
         <App>
           <Routes>
+            <Route path={"*"} element={<NotFound />} />
             <Route path={"/"} element={<LandingPage />} />
           </Routes>
         </App>

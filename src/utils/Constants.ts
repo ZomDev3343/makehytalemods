@@ -19,6 +19,7 @@ export const IMAGES = {
   ],
   LOGO_LG: getImagePath("logo.png"),
   LOGO_SM: getImagePath("logo-small.png"),
+  ERROR404: getImagePath("wallpapers/error404.png"),
 };
 
 export const DOCS = {

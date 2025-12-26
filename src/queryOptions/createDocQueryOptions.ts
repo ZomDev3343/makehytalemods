@@ -9,7 +9,7 @@ export default function createDocQueryOptions(docFile: string) {
 }
 
 const getDoc = async (docFile: string) => {
-  await new Promise((resolve) => setTimeout(resolve, 1000));
+  // await new Promise((resolve) => setTimeout(resolve, 1000));
   const response = await fetch(docFile);
   return response.text();
 };
