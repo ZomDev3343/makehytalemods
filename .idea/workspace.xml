@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c72fc1-05ac-4e65-a815-43d1752b4cbf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/makehytalemods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/blog/2019-05-28-first-blog-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/blog/2019-05-29-long-blog-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/blog/2021-08-01-mdx-blog-post.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/blog/2021-08-26-welcome/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/blog/authors.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/blog/tags.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docusaurus.config.ts" afterDir="false" />
-    </list>
+    <list default="true" id="98c72fc1-05ac-4e65-a815-43d1752b4cbf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +67,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/thomasr/Documents/hymodfr",
+    "last_opened_file_path": "/Users/thomasr/Documents/hymodfr/documentation/static/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,6 +81,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documentation/static/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/assets/images/wallpapers/carrousel/home" />
     </key>
@@ -124,7 +112,7 @@
       <workItem from="1766921487204" duration="908000" />
       <workItem from="1766998996651" duration="108000" />
       <workItem from="1767120816175" duration="620000" />
-      <workItem from="1768595734323" duration="846000" />
+      <workItem from="1768595734323" duration="1732000" />
     </task>
     <servers />
   </component>
