@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="98c72fc1-05ac-4e65-a815-43d1752b4cbf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/familiar.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/companions/familiar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/mount.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/companions/mount.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/companions/practice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/summons.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/server-assets/npcs/companions/summons.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +53,24 @@
   }
 }</component>
   <component name="McpProjectServerCommands">
-    <commands />
-    <urls />
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.5" />
   <component name="ProjectColorInfo">{
@@ -75,7 +96,7 @@
     "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Gunpo/Documents/HytaleModding/makehytalemods/documentation/docs/server-assets/item",
+    "last_opened_file_path": "C:/Users/Gunpo/Documents/HytaleModding/makehytalemods/documentation/docs/server-assets/npcs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,12 +111,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\npcs\companions" />
+      <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\npcs\mobs" />
+      <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\npcs" />
       <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\item\_wip" />
       <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\item" />
-      <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\block" />
-      <recent name="$PROJECT_DIR$/documentation/static/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\npcs\mobs" />
+      <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\npcs\companions" />
       <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\block\_wip" />
       <recent name="C:\Users\Gunpo\Documents\HytaleModding\makehytalemods\documentation\docs\server-assets\item\_wip" />
       <recent name="$PROJECT_DIR$/public/assets/images/wallpapers/carrousel/home" />
