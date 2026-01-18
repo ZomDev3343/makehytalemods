@@ -6,28 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98c72fc1-05ac-4e65-a815-43d1752b4cbf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/.env" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/java-docs/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/java-docs/index.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/server-assets/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/server-assets/index.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/server-plugins/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docs/server-plugins/index.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-basics/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-basics/congratulations.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-basics/create-a-blog-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-basics/create-a-document.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-basics/create-a-page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-basics/deploy-your-site.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-basics/markdown-features.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-extras/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-extras/img/docsVersionDropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-extras/img/localeDropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-extras/manage-docs-versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docs/tutorial-extras/translate-your-site.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/docusaurus.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/sidebars.ts" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/sidebars.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/src/components/HomepageFeatures/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/src/components/HomepageFeatures/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/src/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/src/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,24 +48,8 @@
   }
 }</component>
   <component name="McpProjectServerCommands">
-    <McpServerCommand sourceId="UserConfigurationSource">
-      <option name="allowedToolsNames" />
-      <option name="enabled" value="true" />
-      <option name="name" value="" />
-      <option name="programPath" value="" />
-      <option name="arguments" value="" />
-      <option name="workingDirectory" value="" />
-      <envs />
-    </McpServerCommand>
-    <McpServerCommand sourceId="UserConfigurationSource">
-      <option name="allowedToolsNames" />
-      <option name="enabled" value="true" />
-      <option name="name" value="" />
-      <option name="programPath" value="" />
-      <option name="arguments" value="" />
-      <option name="workingDirectory" value="" />
-      <envs />
-    </McpServerCommand>
+    <commands />
+    <urls />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.5" />
   <component name="ProjectColorInfo">{
@@ -110,7 +72,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Gunpo/Documents/HytaleModding/makehytalemods/documentation/docs/server-assets/item",
@@ -122,7 +84,7 @@
     "prettierjs.PrettierConfiguration.Package": "/Users/thomasr/Documents/hymodfr/node_modules/prettier",
     "settings.editor.selected.configurable": "settings.javascript.prettier",
     "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "C:\\Users\\Gunpo\\Documents\\HytaleModding\\makehytalemods\\documentation\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "/Users/thomasr/Documents/hymodfr/documentation/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
